@@ -25,7 +25,7 @@ Follow these steps to set up JoSAA-Data-Analyzer locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SriChaitu/JoSAA-Data-Analyzer.git
+   git clone https://github.com/ShivaSandeep-0/JoSAA-Data-Analyzer.git
    ```
 
 2. Change to the project directory:
